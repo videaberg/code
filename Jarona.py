@@ -1,3 +1,3 @@
-nummer = float(input("tal?"))
+nummer = float(input("tal? "))
 dubbla = nummer * 2
-print(dubbla)
+print('Det här är dubblat.')

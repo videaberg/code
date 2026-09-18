@@ -1,3 +1,3 @@
-år = int(input("Hur gammal är du?"))
+år = int(input("Hur gammal är du? "))
 senare = år + 5
-print(senare)
+print('Fem år senare')
